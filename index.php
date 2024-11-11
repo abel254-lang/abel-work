@@ -147,7 +147,7 @@
                 <p>We are a premier construction company dedicated to quality and customer satisfaction. Our team of experts ensures every project meets the highest standards.</p>
             </section>';
         }
-        // Contact Section
+        // Contact Section every time you wanted response
         elseif ($page == "contact") {
             echo '
             <section class="section">
